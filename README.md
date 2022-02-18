@@ -11,7 +11,7 @@
  
  ## <strong>Tools Used</strong>:
  
- Security Onion | Sguil | Snort | Network Traffic Analysis | virustotal | Threat Detection/Mitigation
+ Security Onion | Sguil | Snort | Network Traffic Analysis | Virustotal | Threat Detection/Mitigation
  
  
   ## <strong>Report</strong>:
