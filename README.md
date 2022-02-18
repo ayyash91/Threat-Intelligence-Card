@@ -58,7 +58,7 @@ Describe observations and indicators that may be related to the perpetrators of 
 
 
 
-List your third-party references: 
+List of third-party references: 
 
 * https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=JS/Nemucod
 * https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=TrojanDownloader:JS/Nemucod
