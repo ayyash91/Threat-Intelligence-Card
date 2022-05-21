@@ -28,7 +28,7 @@ What was the adversarial motivation (purpose of attack)?
 
 
 * To download a trojan file to infect the victim device with a malware
-* ransomware the target for financial gain
+* Ransomware the target to get financial gain
 
 
 
