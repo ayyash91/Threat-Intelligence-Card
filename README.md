@@ -28,6 +28,7 @@ What was the adversarial motivation (purpose of attack)?
 
 
 * To download a trojan file to infect the victim device with a malware
+* ransomware the target for financial gain
 
 
 
@@ -51,7 +52,8 @@ Describe observations and indicators that may be related to the perpetrators of 
 
 ## Recommended Mitigation Strategies
 
-* More resrvation about what information can be shared about the company in the Job listing and the Public internet 
+* More resrvation about what information can be shared about the company in the Job listing and the Public internet
+* Backup your data and test your backup regularly  
 * Security awareness training & phishing simulations
 * Install the latest version of anti malware
 * Set alert and monitor traffic inbound and outbound the network
