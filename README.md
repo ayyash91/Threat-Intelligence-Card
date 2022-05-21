@@ -54,6 +54,7 @@ Describe observations and indicators that may be related to the perpetrators of 
 
 * More resrvation about what information can be shared about the company in the Job listing and the Public internet
 * Backup your data and test your backup regularly  
+* Enable email security tool and email firewall to detect phishing emails and external emails  
 * Security awareness training & phishing simulations
 * Install the latest version of anti malware
 * Set alert and monitor traffic inbound and outbound the network
